@@ -292,5 +292,3 @@ def diabetes_app():
 
     st.markdown("---")
     st.warning("**Medical Disclaimer**: This tool provides an estimate based on statistical models and should not replace professional medical advice. Always consult with a healthcare provider for proper diagnosis and treatment.")
-
-diabetes_app()
