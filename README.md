@@ -1,35 +1,92 @@
-A Streamlit-based web application for predicting multiple diseases using machine learning models.
-This web app allows users to input health parameters and get predictions for diseases such as Diabetes and Parkinson's Disease. It leverages machine learning models trained on publicly available datasets to provide accurate and quick predictions.
+# 🏥 Multi-Disease Prediction System
 
-Features :
-1. Diabetes Prediction
-- Predicts the likelihood of diabetes based on health metrics like glucose levels, BMI, blood pressure, and more.
-- Provides clinical assessments for user inputs, highlighting potential health risks.
+A web-based application that enables users to predict multiple diseases based on input symptoms and medical data. The system utilizes machine learning models to analyze user inputs and provide an estimated diagnosis.
 
-2. Parkinson's Disease Prediction
-- Predicts the presence of Parkinson's Disease using voice measurement data.
-- Displays detailed analysis of voice parameters and their significance.
+---
 
-3. Cardiovascular Disease Prediction
-- Predicts the risk of cardiovascular diseases (e.g., heart attack, stroke) based on health metrics such as cholesterol levels, blood pressure, age, and lifestyle factors.
-- Provides a risk score and recommendations for improving heart health.
+## ✨ Features
 
-4. User-Friendly Interface
-- Built with Streamlit, the app provides an intuitive and interactive interface for users to input data and view results.
-- Features dynamic input fields with sliders, number inputs, and dropdowns for ease of use.
+✅ **Disease Selection** (Choose from multiple diseases for prediction)
+✅ **User-Friendly Interface** (Simple form-based input via Streamlit)
+✅ **Machine Learning-Based Prediction** (Utilizes trained models for accurate diagnosis)
+✅ **Real-Time Analysis** (Instant results based on user inputs)
+✅ **Secure & Private** (Data security ensured with local processing)
 
-5. Model Accuracy
-- Displays training and test accuracy scores for transparency.
-- Ensures users understand the reliability of predictions.
+---
 
-6. Clinical Assessment
-- Provides detailed clinical assessments for user inputs, highlighting potential health risks and actionable insights.
+## ⚙️ Tech Stack
 
-Technologies Used:
-- Python: Core programming language.
-- Streamlit: For building the web app interface.
-- Scikit-learn: For training machine learning models (Random Forest, SVM).
-- Pandas & NumPy: For data manipulation and preprocessing.
-- Matplotlib: For data visualization.
-- Pickle: For saving and loading trained models.
+🔹 **Frontend:** Streamlit (Python-based UI Framework)  
+🔹 **Backend:** Python (Flask for API, Pandas, NumPy)  
+🔹 **Machine Learning:** Scikit-learn, XGBoost, TensorFlow  
+🔹 **Database:** CSV / Local Storage  
+🔹 **Deployment:** Localhost / Cloud (AWS, Heroku)  
+
+---
+
+## 🎮 Installation Guide
+
+Follow these steps to set up the project locally:
+
+### 1️⃣ Install Dependencies
+Ensure you have Python installed on your system.
+
+```sh
+pip install -r requirements.txt
+```
+
+### 2️⃣ Clone the Repository
+
+```sh
+git clone https://github.com/yourusername/multi-disease-prediction.git
+```
+
+### 3️⃣ Navigate to the Project Folder
+
+```sh
+cd multi-disease-prediction
+```
+
+### 4️⃣ Run the Application
+
+```sh
+streamlit run app.py
+```
+
+The application will open in your web browser at:
+
+```
+http://localhost:8501/
+```
+
+---
+
+## 📸 Screenshots
+
+🖼️ **Main Dashboard** - `main_dashboard.png`
+🖼️ **Disease Selection Page** - `disease_selection.png`
+🖼️ **Prediction Result** - `prediction_result.png`
+
+---
+
+## 💬 Contributing
+
+Contributions are welcome! To contribute:
+
+1. **Fork** the repository.
+2. **Create a new branch** (`git checkout -b feature-branch`).
+3. **Commit your changes** (`git commit -m "Added new feature"`).
+4. **Push to the branch** (`git push origin feature-branch`).
+5. **Open a Pull Request**.
+
+---
+
+## 📞 Contact
+
+For any issues or suggestions, feel free to reach out:
+
+📧 **Email:** adrija28104@gmail.com  
+🐙 **GitHub:** [Your GitHub Profile](https://github.com/kk3221-adjk)  
+
+---
 
