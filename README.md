@@ -2,7 +2,7 @@
 
 A web-based application that enables users to predict multiple diseases based on input symptoms and medical data. The system utilizes machine learning models to analyze user inputs and provide an estimated diagnosis.
 
----
+
 
 ## ✨ Features
 
@@ -12,7 +12,7 @@ A web-based application that enables users to predict multiple diseases based on
 ✅ **Real-Time Analysis** (Instant results based on user inputs)
 ✅ **Secure & Private** (Data security ensured with local processing)
 
----
+
 
 ## ⚙️ Tech Stack
 
@@ -22,7 +22,7 @@ A web-based application that enables users to predict multiple diseases based on
 🔹 **Database:** CSV / Local Storage  
 🔹 **Deployment:** Localhost / Cloud (AWS, Heroku)  
 
----
+
 
 ## 🎮 Installation Guide
 
@@ -59,7 +59,7 @@ The application will open in your web browser at:
 http://localhost:8501/
 ```
 
----
+
 
 ## 📸 Screenshots
 
@@ -67,7 +67,7 @@ http://localhost:8501/
 🖼️ **Disease Selection Page** - `disease_selection.png`
 🖼️ **Prediction Result** - `prediction_result.png`
 
----
+
 
 ## 💬 Contributing
 
@@ -79,14 +79,14 @@ Contributions are welcome! To contribute:
 4. **Push to the branch** (`git push origin feature-branch`).
 5. **Open a Pull Request**.
 
----
+
 
 ## 📞 Contact
 
 For any issues or suggestions, feel free to reach out:
 
-📧 **Email:** adrija28104@gmail.com  
-🐙 **GitHub:** [Your GitHub Profile](https://github.com/kk3221-adjk)  
+📧 **Email:** shambhavijha172003@gmail.com  
+🐙 **GitHub:** [Your GitHub Profile]([https://github.com/kk3221-adjk](https://github.com/shambhavi1708)  
 
 ---
 
