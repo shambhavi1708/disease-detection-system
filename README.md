@@ -86,7 +86,7 @@ Contributions are welcome! To contribute:
 For any issues or suggestions, feel free to reach out:
 
 📧 **Email:** shambhavijha172003@gmail.com  
-🐙 **GitHub:** [Your GitHub Profile]([https://github.com/kk3221-adjk](https://github.com/shambhavi1708)  
+🐙 **GitHub:** [Your GitHub Profile](https://github.com/shambhavi1708)  
 
 ---
 
